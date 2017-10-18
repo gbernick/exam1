@@ -2,13 +2,19 @@
 title: "9:00 Section"
 output: html_document
 ---
-#Galen Bernick
-#October 18, 2017
+
+
+
+##Galen Bernick
+##October 18, 2017
 
 I heard you would like to see some math:
+
+
 ```{r}
 x<-3
 y<-4
 x-sqrt(y)
 ```
+
 
